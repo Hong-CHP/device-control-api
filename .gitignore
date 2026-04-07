@@ -1,0 +1,30 @@
+# Node / NestJS
+backend/node_modules/
+backend/dist/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OpenCV / AI
+haarcascade_frontalface_default.xml
+*.onnx
+*.pt
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+.env.*
+
+# Arduino / temp
+*.tmp
